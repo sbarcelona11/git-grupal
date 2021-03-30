@@ -1,0 +1,5 @@
+# Solo un ejemplo de un .gitignore
+*.doc
+*.jpg
+*.png
+*.pdf
